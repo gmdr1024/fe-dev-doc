@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: gaia
-header: "fe_dev"
+header: "fe-dev"
 footer: "by ＠gmdr1024"
 ---
 
@@ -15,7 +15,7 @@ footer: "by ＠gmdr1024"
 
 ---
 ## 2. つくったもの  
-- https://github.com/gmdr1024/fe_dev
+- https://github.com/gmdr1024/fe-dev
 - フロントエンド開発環境
 
   - MPA(Multi-Page Application)向け
